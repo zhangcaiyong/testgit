@@ -5,4 +5,4 @@ git测试内容
 44444
 55555
 新加入内容1234
-Creating a new branch is quick
+Creating a new branch is quick AND simple
