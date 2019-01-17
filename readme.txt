@@ -7,3 +7,4 @@ git测试内容
 新加入内容1234
 Creating a new branch is a quick and simple software.
 update a content.
+fix bug.
